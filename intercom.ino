@@ -1,3 +1,7 @@
+//use this app
+//https://play.google.com/store/apps/details?id=com.shredder.intercom
+//as token you may use random words like "abrakadabra3319REFdsf4tfhgbdfefaraf"
+
 #define SSID1 "WIRELESS"
 #define PASSWORD1 "PASSWORD"
 #define DEBUG 1
